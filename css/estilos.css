@@ -11,8 +11,15 @@ body {
 
 .question {
 	margin-top: 5%;
+  margin-left: 5%;
+}
+
+.size {
+  width: 75%;
+  margin-left: 5%;
 }
 
 .alert {
 	width: 75%;
+  margin-left: 5%;
 }
